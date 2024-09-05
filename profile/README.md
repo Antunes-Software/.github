@@ -1,6 +1,6 @@
 # Hey, this is the official GitHub page for Antunes Software!
 
-### 🌟 We are a soon to come Software Company that builds software on demand for other businesses or people.
+### 🌟 We are a soon to come Software Consultancy Company that builds software on demand for other businesses or people.
 
 ## Projects
 - 🤖 [RunCode API](https://github.com/Antunes-Software/runcode-api)
