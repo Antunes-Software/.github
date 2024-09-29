@@ -5,5 +5,6 @@
 ## Projects
 - 🤖 [RunCode API](https://github.com/Antunes-Software/runcode-api)
 - 🎲 [Online Casino (Simulated)](https://github.com/Antunes-Software/casino)
+- 📱 [Boost My X](https://github.com/Antunes-Software/boostmyx)
 - 🎬 Streaming Platform (in the future...)
 - 🖥️ Low Code Development Platform (in the future...)
